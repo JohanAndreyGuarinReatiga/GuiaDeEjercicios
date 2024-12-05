@@ -7,3 +7,9 @@ Los ejercicios de fuerza son actividades que buscan aumentar la masa muscular y 
 -Aumenta la masa muscular y la fuerza.
 -Mejora la salud ósea.
 -Ayuda a mejorar el metabolismo y quemar grasa.
+
+## Instrucciones
+-Comienza con un calentamiento de 5-10 minutos.
+-Realiza ejercicios de fuerza con pesas, como press de banca, sentadillas, peso muerto o dominadas.
+-Completa de 3 a 4 series de 8-12 repeticiones por ejercicio.
+-Termina con estiramientos para evitar lesiones.
