@@ -13,3 +13,8 @@ El Pilates es un sistema de ejercicios enfocado en la tonificación muscular, la
 2. Realiza movimientos controlados como el "Cien", "Roll-Up" o "Swimming".
 3. Enfócate en la activación del núcleo en cada movimiento.
 4. Finaliza con estiramientos y relajación.
+
+## Consejos
+-Realiza los movimientos de manera lenta y controlada.
+-Mantén el core (núcleo) activado durante toda la práctica.
+-Usa una colchoneta adecuada para evitar incomodidades.
